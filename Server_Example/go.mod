@@ -5,7 +5,7 @@ go 1.24.0
 require (
 	github.com/codecat/go-enet v0.0.0-20240719082706-af0e3f4fecfb
 	github.com/gofiber/contrib/websocket v1.3.2
-	github.com/gofiber/fiber/v2 v2.52.5
+	github.com/gofiber/fiber/v2 v2.52.11
 	go.mongodb.org/mongo-driver v1.16.1
 )
 
